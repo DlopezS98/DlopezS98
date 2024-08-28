@@ -6,7 +6,7 @@
 	/></a>
 </p>
 
-- 🌱 I’m currently learning **ruby, rails and postgresql** 
+- 🌱 I’m currently learning **Spring boot and Java** 
 - 💬 Ask me about **react, angular, git, typescript & C#** 
 - 📫 How to reach me **01dlopezs98@gmail.com | dlopezs98@hotmail.com**
 
